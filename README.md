@@ -1,9 +1,9 @@
 ## Hi, I'm Ragesh.A 
 
-🎓 Final year BCA student specializing in *Cyber Security, Ethical Hacking & Digital Forensics   
-💻 Passionate about penetration testing, Capture the flags, and building security tools 
-🌱 Currently learning: Advanced offensive security techniques & Cyber defense  
-🚀 Goal: To become a skilled ethical hacker and contribute to the *cybersecurity community 
+🎓 Final year BCA student specializing in *Cyber Security, Ethical Hacking & Digital Forensics*  
+💻 Passionate about *penetration testing, bug bounty hunting, and building security tools*  
+🌱 Currently learning: *Advanced offensive security techniques & AI in cyber defense*  
+🚀 Goal: To become a skilled *ethical hacker* and contribute to the *cybersecurity community* 
 
 
 
