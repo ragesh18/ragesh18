@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @ragesh18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I'm Ragesh.A 
 
-<!---
-ragesh18/ragesh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final year BCA student specializing in *Cyber Security, Ethical Hacking & Digital Forensics   
+💻 Passionate about penetration testing, Capture the flags, and building security tools 
+🌱 Currently learning: Advanced offensive security techniques & Cyber defense  
+🚀 Goal: To become a skilled ethical hacker and contribute to the *cybersecurity community 
+
+
+
+## 🛠️ Tech & Tools I Use
+Programming: Python, C, C++, Bash  
+Cybersecurity: Metasploit, Burp Suite, Nmap, Wireshark  
+Platforms: Linux (Kali, Parrot), Windows  
+Cloud & Others: Docker, SQL  
+
+
+
+## 📈 Current Projects
+🔐 IoT Security Project with ESP32 (GPS + GSM alert system)  
+🕵️ DIY Penetration Testing Labs   
