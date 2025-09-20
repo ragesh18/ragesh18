@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hi, I'm Ragesh.A<br>
 🎓 Final year BCA student specializing in Cyber Security, Ethical Hacking & Digital Forensics<br>
 💻 Passionate about penetration testing, Capture the flags and building security tools<br>
