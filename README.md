@@ -10,7 +10,7 @@ Programming: Python, C, C++, Bash<br>
 Cybersecurity: Metasploit, Burp Suite, Nmap, Wireshark<br>
 Platforms: Linux (Kali, Parrot), Windows<br>
 Cloud & Others: Docker, SQL<br><br>
-📈 Current Projects<br>
+## 📈 Current Projects<br>
 🔐 IoT Security Project with ESP32 (GPS + GSM alert system)<br>
 🕵️ DIY Penetration Testing Labs
 
