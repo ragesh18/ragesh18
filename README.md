@@ -12,7 +12,7 @@ Platforms: Linux (Kali, Parrot), Windows<br>
 Cloud & Others: Docker, SQL<br><br>
 ## 📈 Current Projects<br>
 🔐 IoT Security Project with ESP32 (GPS + GSM alert system)<br>
-🕵️ DIY Penetration Testing Labs
+🛡️GenAI Data Leaking Guard 
 
 
 ## 💻 Tech Stack:
