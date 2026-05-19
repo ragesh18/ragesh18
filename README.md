@@ -4,6 +4,7 @@ Hi, I'm Ragesh.A<br>
 💻 Passionate about penetration testing, Capture the flags and building security tools<br>
 🌱 Currently learning: Advanced offensive security techniques & AI in cyber defense<br>
 🚀 Goal: To become a skilled ethical hacker and contribute to the cybersecurity community
+💡 Currently focusing on SOC skill building
 <br><br>
 ## 🛠️ Tech & Tools I Use<br>
 Programming: Python, C, C++, Bash<br>
